@@ -1,4 +1,4 @@
-<h1>
+<h1 align="center">
   👋🏻 Hi, I'm Joshua
 </h1>
 
@@ -21,7 +21,9 @@
 
   <br>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=2B96C5&width=435&lines=Data+Scientist)](https://git.io/typing-svg)  
+  <h2 align="center">
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=2B96C5&width=435&lines=Data+Scientist)](https://git.io/typing-svg)
+  </h2>
 
   ![Profile views](https://komarev.com/ghpvc/?username=joshfpedro&style=plastic&color=blue)
   [![GitHub followers](https://img.shields.io/github/followers/joshfpedro.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/joshfpedro?tab=followers)
