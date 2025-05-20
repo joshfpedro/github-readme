@@ -99,6 +99,8 @@ My work involves conducting data exploration, cleaning, predictive modeling, and
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshfpedro&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/joshfpedro)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshfpedro&theme=github_dark&hide_border=true)
 
+![Joshua's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshfpedro&show_icons=true&theme=github_dark)
+
 
 
 
