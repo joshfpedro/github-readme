@@ -95,7 +95,7 @@ My work involves conducting data exploration, cleaning, predictive modeling, and
 
 ---
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfpedro&repo=etsy-recommendation-engine&theme=github_dark&hide_border=true)](https://github.com/joshfpedro/etsy-recommendation-engine)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfpedro&repo=greensight-ai&theme=github_dark&hide_border=true)](https://github.com/joshfpedro/capstone)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joshfpedro&repo=capstone&theme=github_dark&hide_border=true)](https://github.com/joshfpedro/capstone)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshfpedro&hide_progress=false&langs_count=3&theme=github_dark&hide_border=true)](https://github.com/joshfpedro)
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshfpedro&theme=github_dark&hide_border=true)
 
