@@ -34,11 +34,9 @@
 
 #### 👨‍💻 About Me :
 
-> « The world is one big data problem. »
+> "The world is one big data problem."
 
-I am a Data Scientist with a strong background in mathematics and economics, currently working at CUNY Advanced Science Research Center. My expertise spans across machine learning, mathematical modeling, and data analysis, with a particular focus on applying these skills to solve complex real-world problems.
-
-My work involves conducting data exploration, cleaning, predictive modeling, and data visualization using Python, Spark, SQL, AWS (EC2, S3), Hadoop, Hive, MapReduce, and various machine learning techniques. I'm passionate about bridging the gap between complex data and practical applications that positively impact people's lives.
+I'm a Data Scientist, Researcher, and Educator passionate about using mathematics, machine learning, and data engineering to solve real-world problems. My experience spans academic research, industry projects, and teaching—building scalable pipelines, developing advanced AI/ML models, and leading teams to actionable insights. I thrive on mission-driven work and turning complex data into meaningful impact.
 
 #### 🎓 Education :
 
