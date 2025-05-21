@@ -22,7 +22,7 @@
   <br>
 
   <div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=2B96C5&width=435&lines=Data+Scientist" alt="Data Scientist" />
+    <img src="https://readme-typing-svg.demolab.com?font=Roboto&pause=1000&color=2B96C5&width=435&lines=Data+Scientist&center=true" alt="Data Scientist" />
   </div>
 
   ![Profile views](https://komarev.com/ghpvc/?username=joshfpedro&style=plastic&color=blue)
